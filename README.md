@@ -2,6 +2,7 @@
 
 ## Config
 you need to setup a config so you can use this tool.
+
 windows: `%APPDATA%\fanslyio\config.json`
 
 macOS: `$HOME/Library/Application Support/fanslyio/config.json`
